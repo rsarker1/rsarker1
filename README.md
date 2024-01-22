@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+I'm Rahul, a Computer Science student who recently graduated from SUNY Stony Brook University. 
+
+I am currently looking for full-time software engineering roles, specifically those hiring new grads. 
+
+Feel free to take a look at my resumeor contact me at rahulsarker14@gmail.com
 
 <!--
 **rsarker1/rsarker1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
