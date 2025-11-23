@@ -1,9 +1,14 @@
 ### Hello 👋
-I'm Rahul, a Computer Science student who recently graduated from SUNY Stony Brook University. 
+I'm Rahul, a full stack software developer in NYC. 
+
+I build weird things, whether they are scripts or full stack applications.
+
+I primarily use React, JavaScript/TypeScript, Node.js, and PostgreSQL for full stack, and Python for everything else,
+though I also have experience with Next.js and Vite. 
 
 I am currently looking for full-time software engineering roles, specifically those hiring new grads. 
 
-Feel free to take a look at my resume or contact me at rahulsarker14@gmail.com
+Feel free to take a look at my [resume](https://drive.google.com/file/d/1FUHZqbmvDYuNnZakG59eNmmY5pyxOg9l/view?usp=sharing) or contact me at rahulsarker14@gmail.com
 
 <!--
 **rsarker1/rsarker1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
